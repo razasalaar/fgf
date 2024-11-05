@@ -5,8 +5,6 @@ html {
   padding: 0;
   font-family: Arial, sans-serif;
 }
-body {
-}
 header {
   position: fixed;
   width: 100%;
@@ -176,6 +174,7 @@ header {
 @media (max-width: 480px) {
   .logo {
     text-align: center;
+    margin-left: 40px; 
   }
   .menu-icon {
     position: absolute;
@@ -1182,6 +1181,8 @@ header {
     font-size: 0.9em;
     padding: 0 20px; /* Adds padding for better readability on smaller screens */
     margin-left: -70px;
+     margin-left: 0px;
+    width: 90%;
   }
 
   .subscription-form {
