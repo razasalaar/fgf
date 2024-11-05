@@ -174,7 +174,7 @@ header {
 @media (max-width: 480px) {
   .logo {
     text-align: center;
-    margin-left: 90px; 
+    margin-right: -10px; 
   }
   .menu-icon {
     position: absolute;
